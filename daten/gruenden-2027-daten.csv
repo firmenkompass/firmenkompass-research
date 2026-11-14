@@ -1,0 +1,57 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Rechengröße Mindestlohn je Stunde,2026,13.9,€ je Stunde,siehe Quellen,verkuendet,
+Rechengröße Mindestlohn je Stunde,2027,14.6,€ je Stunde,siehe Quellen,verkuendet,
+Rechengröße Minijob-Grenze,2026,603,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Minijob-Grenze,2027,633,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Bezugsgröße,2026,3955,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Bezugsgröße,2027,4130,€ im Monat,siehe Quellen,kabinett,
+Rechengröße Beitragsbemessungsgrenze RV,2026,8450,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Beitragsbemessungsgrenze RV,2027,8850,€ im Monat,siehe Quellen,kabinett,
+Rechengröße Versicherungspflichtgrenze KV,2026,6450,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Versicherungspflichtgrenze KV,2027,7012.5,€ im Monat,siehe Quellen,kabinett,
+Rechengröße Beitragsbemessungsgrenze KV,2026,5812.5,€ im Monat,siehe Quellen,verkuendet,
+Rechengröße Beitragsbemessungsgrenze KV,2027,6375,€ im Monat,siehe Quellen,kabinett,
+Mindestbeitrag Solo: KV/PV mit Krankengeld,2026,278.17,€ im Monat,eigene Berechnung,verkuendet (eigene berechnung),Bezugsgröße 2026 laut SVBezGrV 2026
+Mindestbeitrag Solo: KV/PV mit Krankengeld,2027,290.48,€ im Monat,eigene Berechnung,kabinett (eigene berechnung),Bezugsgröße 2027 laut Kabinettsbeschluss
+Mindestbeitrag Solo: KV/PV ohne Krankengeld,2026,270.26,€ im Monat,eigene Berechnung,verkuendet (eigene berechnung),Bezugsgröße 2026 laut SVBezGrV 2026
+Mindestbeitrag Solo: KV/PV ohne Krankengeld,2027,282.22,€ im Monat,eigene Berechnung,kabinett (eigene berechnung),Bezugsgröße 2027 laut Kabinettsbeschluss
+Mindestbeitrag Solo: KV/PV + freiwillige ALV,2026,329.59,€ im Monat,eigene Berechnung,verkuendet (eigene berechnung),Bezugsgröße 2026 laut SVBezGrV 2026
+Mindestbeitrag Solo: KV/PV + freiwillige ALV,2027,344.17,€ im Monat,eigene Berechnung,kabinett (eigene berechnung),Bezugsgröße 2027 laut Kabinettsbeschluss
+Mindestbeitrag RV-pflichtig: KV/PV + halber RV-Regelbeitrag,2026,645.99,€ im Monat,eigene Berechnung,verkuendet (eigene berechnung),Bezugsgröße 2026 laut SVBezGrV 2026
+Mindestbeitrag RV-pflichtig: KV/PV + halber RV-Regelbeitrag,2027,674.57,€ im Monat,eigene Berechnung,kabinett (eigene berechnung),Bezugsgröße 2027 laut Kabinettsbeschluss
+Körperschaftsteuersatz,2027,15,%,§ 23 KStG,verkuendet,
+Körperschaftsteuersatz,2028,14,%,§ 23 KStG,verkuendet,
+Körperschaftsteuersatz,2029,13,%,§ 23 KStG,verkuendet,
+Körperschaftsteuersatz,2030,12,%,§ 23 KStG,verkuendet,
+Körperschaftsteuersatz,2031,11,%,§ 23 KStG,verkuendet,
+Körperschaftsteuersatz,2032,10,%,§ 23 KStG,verkuendet,
+Gründungszuschuss Zugänge,2025,30000,Zugänge,BA,vorlaeufig,
+Gründungszuschuss Zugänge,11/24–10/25,28572,Zugänge,BA,vorlaeufig,
+Gründungszuschuss Zugänge,11/25–10/26,34576,Zugänge,BA,vorlaeufig,
+Existenzgründungen,2022,550000,Personen,KfW-Gründungsmonitor,befragung,
+Existenzgründungen,2023,568000,Personen,KfW-Gründungsmonitor,befragung,
+Existenzgründungen,2024,585000,Personen,KfW-Gründungsmonitor,befragung,
+Existenzgründungen,2025,690000,Personen,KfW-Gründungsmonitor,befragung,
+Gewerbliche Neugründungen 1. Halbjahr,2026,352400,Neugründungen,Destatis PM 287/2026,vorlaeufig,
+Betriebsgründungen größere Bedeutung 1. Halbjahr,2026,69600,Gründungen,Destatis PM 287/2026,vorlaeufig,
+Existenzgründungen 2027 Szenario,vorsichtig,640000,Personen,eigene Rechnung,szenario,"gerundet auf 5.000, keine Prognose"
+Existenzgründungen 2027 Szenario,Basis,695000,Personen,eigene Rechnung,szenario,"gerundet auf 5.000, keine Prognose"
+Existenzgründungen 2027 Szenario,optimistisch,745000,Personen,eigene Rechnung,szenario,"gerundet auf 5.000, keine Prognose"
+Kalender 2027,01.01.2027,"Mindestlohn 14,60 Euro; dynamische Minijob-Grenze 633 Euro",,siehe Report,,"Arbeit und Sozialversicherung; Vorbereitung: Arbeitsverträge, Kalkulation und Dienstpläne prüfen"
+Kalender 2027,01.01.2027,"Voraussichtlich neue SV-Rechengrößen; durchschnittlicher GKV-Zusatzbeitrag 2,9 Prozent",,siehe Report,,Arbeit und Sozialversicherung; Vorbereitung: Beitragsschätzung und private Vorsorgeplanung aktualisieren
+Kalender 2027,01.01.2027,Für regelbesteuerte Neugründungen grundsätzlich wieder monatliche USt-Voranmeldungen,,siehe Report,,"Steuern; Vorbereitung: Buchführung monatlich abschließen, Umsatzsteuer zurücklegen"
+Kalender 2027,01.01.2027,E-Rechnungs-Übergangsregel richtet sich 2027 nach 800.000 Euro Vorjahresumsatz,,siehe Report,,Steuern; Vorbereitung: Elektronischen Rechnungsversand testen
+Kalender 2027,01.01.2027,Gewerbesteuer-Mindesthebesatz 280 Prozent,,siehe Report,,Steuern; Vorbereitung: Sitzgemeinde und Rechtsformrechnung prüfen
+Kalender 2027,01.01.2027,"Künstlersozialabgabe 5,0 Prozent",,siehe Report,,Arbeit und Sozialversicherung; Vorbereitung: Abgabepflicht und kreative Fremdleistungen erfassen
+Kalender 2027,01.03.2027,"Regelfrist für Steuererklärungen 2025 bei steuerlicher Beratung, soweit keine Ausnahme gilt",,siehe Report,,Steuern; Vorbereitung: Vollständige Unterlagen mit Beratung abstimmen
+Kalender 2027,31.03.2027,Meldung 2026 abgabepflichtiger Honorare an die Künstlersozialkasse,,siehe Report,,Arbeit und Sozialversicherung; Vorbereitung: Honorarliste und Bemessungsgrundlage abgleichen
+Kalender 2027,30.06.2027,EU-Entwaldungsverordnung nach derzeitiger Übergangsregel auch für kleine und Kleinstunternehmen,,siehe Report,,Recht und Digitales; Vorbereitung: Betroffene Warengruppen und Lieferkette prüfen
+Kalender 2027,10.07.2027,EU-weite Obergrenze gewerblicher Barzahlungen grundsätzlich 10.000 Euro,,siehe Report,,"Recht und Digitales; Vorbereitung: Zahlungswege, Kassenvorgänge, Schulungen prüfen"
+Kalender 2027,02.08.2027,"Regelfrist für nicht beratene Steuererklärung 2026, soweit gesetzlich anwendbar",,siehe Report,,Steuern; Vorbereitung: Steuerunterlagen fertigstellen
+Kalender 2027,12.09.2027,Data-Act-Regeln über missbräuchliche Datenvertragsklauseln erfassen bestimmte Altverträge,,siehe Report,,Recht und Digitales; Vorbereitung: Langfristige Datenverträge inventarisieren
+Kalender 2027,02.12.2027,Hochrisiko-KI-Pflichten nach EU-KI-Verordnung für Anhang-III-Systeme,,siehe Report,,"Recht und Digitales; Vorbereitung: Systeme einstufen, Verantwortlichkeiten zuweisen"
+Kalender 2027,11.12.2027,Cyber Resilience Act weitgehend anwendbar,,siehe Report,,Recht und Digitales; Vorbereitung: Produkt- und Software-Sicherheit nachweisen
+Kalender 2027,31.12.2027,Zeitfenster für 30-Prozent-degressive AfA und besondere E-Auto-AfA endet,,siehe Report,,Steuern; Vorbereitung: Anschaffungstermine und Nutzungsbedarf prüfen
+Kalender 2027,31.12.2027,Letzter Tag der allgemeinen E-Rechnungs-Übergangsregelung für kleinere Rechnungsaussteller,,siehe Report,,Steuern; Vorbereitung: B2B-Rechnungsprozess ab 2028 funktionsfähig halten
+Kalender 2027,31.12.2027,Befristete Übergangsregel für Lehrtätigkeiten endet,,siehe Report,,"Arbeit und Sozialversicherung; Vorbereitung: Verträge, Status, Sozialversicherung klären"
+Kalender 2027,31.12.2027,Nach aktueller EXIST-Förderrichtlinie letztmöglicher Antragstag für das Gründungsstipendium,,siehe Report,,Förderung; Vorbereitung: Projektträger und Hochschulberatung frühzeitig kontaktieren

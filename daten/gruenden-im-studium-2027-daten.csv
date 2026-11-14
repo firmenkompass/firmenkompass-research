@@ -1,0 +1,75 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Existenzgründungen gesamt,2025,690000,Gründungen,KfW,befragung,
+Gründungen direkt aus dem Studium,2025,61000.0,Personen,"KfW, eigene Rechnung",schaetzung,690.000 × 40 % × 22 %
+Gründende mit akademischem Abschluss,2007,26,%,KfW,befragung,
+Gründende mit akademischem Abschluss,2010,23,%,KfW,befragung,
+Gründende mit akademischem Abschluss,2015,28,%,KfW,befragung,
+Gründende mit akademischem Abschluss,2020,32,%,KfW,befragung,
+Gründende mit akademischem Abschluss,2025,34,%,KfW,befragung,
+Gründungen aus Hochschulen (Gründungsradar),2012,1145,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2013,1766,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2015,1615,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2017,1776,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2019,2176,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2021,2779,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Gründungen aus Hochschulen (Gründungsradar),2023,2927,Gründungen,Stifterverband,befragung,wechselnder Teilnehmerkreis
+Struktur Gründungsförderung 2023,Gründungsnetzwerk,95.2,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Gründungszentrum,89.7,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Transferstrategie,84.9,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Mentoringprogramme,74.9,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Regeln zu geistigem Eigentum,68.4,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Gründungsstrategie,62.9,%,Stifterverband,befragung,
+Struktur Gründungsförderung 2023,Beteiligung an Gründungen,20.1,%,Stifterverband,befragung,
+Budget Gründungsförderung 2023,gesamt,218.2,Mio. €,Stifterverband,befragung,
+Befristete Stellen Gründungsförderung,2023,69.5,%,Stifterverband,befragung,
+Startups mit Hochschulunterstützung,2023,49.2,%,Startup-Verband,befragung,
+Startups mit Hochschulunterstützung,2024,55.1,%,Startup-Verband,befragung,
+Startups mit Hochschulunterstützung,2025,50.9,%,Startup-Verband,befragung,
+Startups mit Hochschulunterstützung,2026,50.5,%,Startup-Verband,befragung,
+Startup-Neugründungen,2023 H1,1297,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2023 H2,1201,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2024 H1,1384,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2024 H2,1382,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2025 H1,1557,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2025 H2,2011,Anzahl,Startup-Verband/startupdetector,endgueltig,
+Startup-Neugründungen,2026 H1,3053,Anzahl,Startup-Verband/startupdetector,endgueltig,
+EXIST-Gründungsstipendium Anträge,2022,295,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Anträge,2023,275,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Anträge,2024,299,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Anträge,2025,442,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Bewilligungen,2022,183,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Bewilligungen,2023,119,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Bewilligungen,2024,172,Anzahl,PtJ,endgueltig,
+EXIST-Gründungsstipendium Bewilligungen,2025,217,Anzahl,PtJ,endgueltig,
+Landesprogramm,Baden-Württemberg,,€/Monat,Junge Innovatoren,endgueltig,Hochschulgebundene Förderung der Gründungsvorbereitung; Antrag über die Hochschule
+Landesprogramm,Bayern,2500,€/Monat,FLÜGGE,endgueltig,Gründungsförderung an staatlichen Hochschulen; individuelles Antragsfenster
+Landesprogramm,Berlin,2500,€/Monat,Berliner Startup Stipendium,endgueltig,Förderung über zugelassene Partner und Programme; Innovation und Marktzugang
+Landesprogramm,Brandenburg,,€/Monat,Gründung innovativ / GI-Gründungsgehalt,endgueltig,Personalbezogene Gründungsförderung; insbesondere nach der Gründung zu prüfen
+Landesprogramm,Bremen,,€/Monat,Starthaus Coachingprogramm,endgueltig,Coaching sowie gegebenenfalls Unterstützung zum Lebensunterhalt
+Landesprogramm,Hamburg,2500,€/Monat,InnoFounder,endgueltig,Finanzielle Förderung von innovativen Gründungsvorhaben über IFB Innovationsstarter
+Landesprogramm,Hessen,2500,€/Monat,Hessen Ideen Stipendium,endgueltig,"Hochschulnahes Stipendium für innovative Vorhaben, Begleitung durch Hochschulnetzwerk"
+Landesprogramm,Mecklenburg-Vorpommern,2400,€/Monat,Gründungsstipendium M-V,endgueltig,"Personenbezogene Förderung in der Gründungsvorbereitung, richtlinienabhängig"
+Landesprogramm,Niedersachsen,2200,€/Monat,Gründungsstipendium Niedersachsen,endgueltig,Frühphasenförderung mit vorgeschriebener fachlicher Begleitung
+Landesprogramm,Nordrhein-Westfalen,1200,€/Monat,Gründungsstipendium.NRW,endgueltig,1.200 € monatlich bis 12 Monate; Empfehlung eines akkreditierten Netzwerks
+Landesprogramm,Rheinland-Pfalz,1000,€/Monat,START in RLP,endgueltig,"Stipendium und Coaching, individuelles Innovations- und Vorhabenkriterium"
+Landesprogramm,Saarland,,€/Monat,Starter Stipendium Saar,endgueltig,"Unterstützung innovativer Gründungen, teils erst nach formaler Gründung"
+Landesprogramm,Sachsen,2500,€/Monat,Technologiegründerstipendium,endgueltig,Für Vorhaben mit Technologie- oder Wissensbezug und definierten Qualifikationen
+Landesprogramm,Sachsen-Anhalt,2000,€/Monat,ego.-START Gründerstipendium,endgueltig,Stipendienförderung von Gründungsvorbereitung und ersten Entwicklungsschritten
+Landesprogramm,Schleswig-Holstein,2200,€/Monat,Gründungsstipendium SH,endgueltig,"Personenbezogenes Stipendium und Projektmittel, Zugangsvoraussetzungen prüfen"
+Landesprogramm,Thüringen,2000,€/Monat,StarTH / StarTH-Stipendium,endgueltig,"Hochschulnetzwerk und beispielhafte Brückenförderung, keine pauschale Landesvollförderung"
+Arbeitslose Akademiker,2015,203000,Personen,BA,endgueltig,Quote 2.7 %
+Arbeitslose Akademiker,2016,198000,Personen,BA,endgueltig,Quote 2.6 %
+Arbeitslose Akademiker,2017,194000,Personen,BA,endgueltig,Quote 2.5 %
+Arbeitslose Akademiker,2018,185000,Personen,BA,endgueltig,Quote 2.2 %
+Arbeitslose Akademiker,2019,187000,Personen,BA,endgueltig,Quote 2.1 %
+Arbeitslose Akademiker,2020,238000,Personen,BA,endgueltig,Quote 2.6 %
+Arbeitslose Akademiker,2021,222000,Personen,BA,endgueltig,Quote 2.4 %
+Arbeitslose Akademiker,2022,205000,Personen,BA,endgueltig,Quote 2.2 %
+Arbeitslose Akademiker,2023,243000,Personen,BA,endgueltig,Quote 2.5 %
+Arbeitslose Akademiker,2024,290000,Personen,BA,endgueltig,Quote 2.9 %
+Arbeitslose Akademiker,2025,335000,Personen,BA,endgueltig,Quote 3.3 %
+Arbeitslose Akademiker Monatsbestand,08/2026,372000,Personen,BA,endgueltig,
+Arbeitslose Akademiker Monatsbestand,09/2026,360000,Personen,BA,endgueltig,rund
+Szenario Gründungen aus Hochschulen 2027,Stagnation,2900,Gründungen,eigene Rechnung,prognose,
+Szenario Gründungen aus Hochschulen 2027,Moderates Wachstum,3100.0,Gründungen,eigene Rechnung,prognose,
+Szenario Gründungen aus Hochschulen 2027,Fortsetzung stärkerer Dynamik,3900.0,Gründungen,eigene Rechnung,prognose,

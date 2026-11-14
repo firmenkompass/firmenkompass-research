@@ -1,0 +1,112 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Betriebsbestand Anlage A,2015,709165,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2016,702663,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2017,697848,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2018,693080,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2019,694678,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2020,688549,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2021,682394,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2022,672953,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2023,663285,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2024,652686,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage A,2025,641462,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2015,188049,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2016,192886,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2017,200178,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2018,208287,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2019,217724,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2020,229343,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2021,240260,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2022,251243,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2023,263602,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2024,275125,Betriebe,ZDH,endgueltig,
+Betriebsbestand Anlage B1,2025,286223,Betriebe,ZDH,endgueltig,
+Betriebsübernahmen Gesamthandwerk,2015,12085,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2016,11580,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2017,11771,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2018,11815,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2019,12821,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2020,10692,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2021,9577,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2022,9325,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2023,9695,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2024,9449,Betriebe,ZDH,schaetzung,
+Betriebsübernahmen Gesamthandwerk,2025,9766,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2015,67713,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2016,65750,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2017,68089,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2018,68932,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2019,73740,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2020,68190,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2021,67201,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2022,68292,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2023,73738,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2024,72430,Betriebe,ZDH,schaetzung,
+Neuerrichtungen Gesamthandwerk,2025,76005,Betriebe,ZDH,schaetzung,
+Meisterprüfungen bestanden,2010,23231,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2011,22999,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2012,22891,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2013,23153,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2014,22428,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2015,21880,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2016,21266,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2017,20495,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2018,20047,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2019,20080,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2020,18259,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2021,19534,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2022,20532,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2023,20349,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2024,20426,Prüfungen,ZDH,endgueltig,
+Meisterprüfungen bestanden,2025,20461,Prüfungen,ZDH,endgueltig,
+Alter Leitungspersonen Anlage A Halle 2025,Gewerblicher Bedarf: bis 50,26.3,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gewerblicher Bedarf: 51–60,32.9,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gewerblicher Bedarf: 61–70,29.5,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gewerblicher Bedarf: 71 und älter,11.3,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Kfz: bis 50,32.2,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Kfz: 51–60,32.3,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Kfz: 61–70,27.4,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Kfz: 71 und älter,8.1,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Ausbau: bis 50,29.4,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Ausbau: 51–60,38.6,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Ausbau: 61–70,26.0,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Ausbau: 71 und älter,6.1,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Bauhaupt: bis 50,30.1,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Bauhaupt: 51–60,38.1,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Bauhaupt: 61–70,25.1,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Bauhaupt: 71 und älter,6.6,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Nahrungsmittel: bis 50,30.8,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Nahrungsmittel: 51–60,38.0,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Nahrungsmittel: 61–70,25.4,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Nahrungsmittel: 71 und älter,5.7,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gesundheit: bis 50,33.9,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gesundheit: 51–60,38.5,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gesundheit: 61–70,22.2,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Gesundheit: 71 und älter,5.4,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Privater Bedarf: bis 50,39.8,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Privater Bedarf: 51–60,37.6,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Privater Bedarf: 61–70,17.4,%,HWK Halle,endgueltig,regional
+Alter Leitungspersonen Anlage A Halle 2025,Privater Bedarf: 71 und älter,5.2,%,HWK Halle,endgueltig,regional
+Leitungspersonen über 60 Halle,2015,18.6,%,HWK Halle,endgueltig,regional
+Leitungspersonen über 60 Halle,2020,22.5,%,HWK Halle,endgueltig,regional
+Leitungspersonen über 60 Halle,2024,27.8,%,HWK Halle,endgueltig,regional
+Leitungspersonen über 60 Halle,2025,28.9,%,HWK Halle,endgueltig,regional
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Nordrhein-Westfalen,645,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Baden-Württemberg,395,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Niedersachsen,232,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Bayern,193,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Rheinland-Pfalz,118,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Schleswig-Holstein,117,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Hessen,107,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Sachsen,106,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Sachsen-Anhalt,81,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Thüringen,49,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Berlin,43,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Brandenburg,41,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Saarland,32,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Hamburg,26,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Mecklenburg-Vorpommern,19,Inserate,Firmenkompass,erhebung,
+nexxt-change Verkaufsangebote Handwerk 10.11.2026,Bremen,10,Inserate,Firmenkompass,erhebung,
+Sensitivitätsrechnung 2026–2030 (illustrativ),15 % nicht realisiert,18375,Pläne,eigene Rechnung,szenario,Basis 122500 Nachfolgewünsche
+Sensitivitätsrechnung 2026–2030 (illustrativ),30 % nicht realisiert,36750,Pläne,eigene Rechnung,szenario,Basis 122500 Nachfolgewünsche
+Sensitivitätsrechnung 2026–2030 (illustrativ),45 % nicht realisiert,55125,Pläne,eigene Rechnung,szenario,Basis 122500 Nachfolgewünsche

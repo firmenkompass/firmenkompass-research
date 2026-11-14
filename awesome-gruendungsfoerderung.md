@@ -79,6 +79,6 @@ Grundsicherungsgeld hieß bis Juni 2026 Bürgergeld.
 
 ## Offene Daten
 
-- [Firmenkompass Research – Datensätze](./) – CSV-Daten zu Gründungskosten in 99 Städten, Gründungsgeschehen, Förderung aus der Arbeitslosigkeit und Unternehmensnachfolge, jeder Wert mit Quelle.
+- [Firmenkompass Research – Datensätze](./) – CSV-Daten zu 16 Studien: Gründungskosten, Gründungsgeschehen, Gründungszuschuss, Bundesländer, Nachfolge, Nebenerwerb, Freie Berufe, Gewerbeanmeldung digital, jeder Wert mit Quelle.
 
 Lizenz dieser Liste: [CC BY 4.0](LICENSE).

@@ -1,0 +1,38 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Schwerbehinderte Menschen am Jahresende,2015,7615560,Personen,Destatis,endgueltig,
+Schwerbehinderte Menschen am Jahresende,2017,7766573,Personen,Destatis,endgueltig,
+Schwerbehinderte Menschen am Jahresende,2019,7902960,Personen,Destatis,endgueltig,
+Schwerbehinderte Menschen am Jahresende,2021,7795340,Personen,Destatis,endgueltig,
+Schwerbehinderte Menschen am Jahresende,2023,7862325,Personen,Destatis,endgueltig,
+Schwerbehinderte Menschen am Jahresende,2025,7835175,Personen,Destatis,endgueltig,
+Schwerbehindertenquote nach Alter,45 bis 55 Jahre,5.9,%,Destatis,endgueltig,2025
+Schwerbehindertenquote nach Alter,55 bis 60 Jahre,9.9,%,Destatis,endgueltig,2025
+Schwerbehindertenquote nach Alter,60 bis 62 Jahre,13.0,%,Destatis,endgueltig,2025
+Schwerbehindertenquote nach Alter,62 bis 65 Jahre,15.7,%,Destatis,endgueltig,2025
+Schwerbehindertenquote nach Alter,65 Jahre und älter,24.1,%,Destatis,endgueltig,2025
+Selbstständigenanteil Erwerbstätige,mit Behinderung,6.2,%,Destatis Mikrozensus 2023,befragung,
+Selbstständigenanteil Erwerbstätige,ohne Behinderung,8.9,%,Destatis Mikrozensus 2023,befragung,
+Selbstständigenanteil Erwerbstätige,Männer mit,7.4,%,Destatis Mikrozensus 2023,befragung,
+Selbstständigenanteil Erwerbstätige,Männer ohne,11.0,%,Destatis Mikrozensus 2023,befragung,
+Selbstständigenanteil Erwerbstätige,Frauen mit,4.8,%,Destatis Mikrozensus 2023,befragung,
+Selbstständigenanteil Erwerbstätige,Frauen ohne,6.5,%,Destatis Mikrozensus 2023,befragung,
+Rechnerische Differenz Selbstständige (Vergleichsszenario),2023,67000.0,Personen,eigene Rechnung,berechnung,"Mikrozensus 2023, keine Zielquote"
+Arbeitslose Schwerbehinderte,2024,175000,Personen,BA,endgueltig,
+Arbeitslose Schwerbehinderte,2025,185000,Personen,BA,endgueltig,
+Arbeitslose Schwerbehinderte (Rechenszenario),2026,188000.0,Personen,eigene Rechnung auf Basis IAB,prognose,Spanne 187000.0–189000.0
+Arbeitslose Schwerbehinderte (Rechenszenario),2027,190000.0,Personen,eigene Rechnung auf Basis IAB,prognose,Spanne 181000.0–198000.0
+BIH Hilfen zur wirtschaftlichen Selbstständigkeit,2021,0.337,Mio. €,BIH,endgueltig,67 Empfangende
+BIH Hilfen zur wirtschaftlichen Selbstständigkeit,2022,0.287,Mio. €,BIH,endgueltig,57 Empfangende
+BIH Hilfen zur wirtschaftlichen Selbstständigkeit,2023,0.301,Mio. €,BIH,endgueltig,65 Empfangende
+BIH Hilfen zur wirtschaftlichen Selbstständigkeit,2024,0.451,Mio. €,BIH,endgueltig,66 Empfangende
+BIH Arbeitsassistenz,2021,40.22,Mio. €,BIH,endgueltig,3523 Empfangende
+BIH Arbeitsassistenz,2022,46.16,Mio. €,BIH,endgueltig,3734 Empfangende
+BIH Arbeitsassistenz,2023,54.44,Mio. €,BIH,endgueltig,3924 Empfangende
+BIH Arbeitsassistenz,2024,58.08,Mio. €,BIH,endgueltig,3906 Empfangende
+Gründungszuschuss Rehabilitanden BA,2025,103,Eintritte,BA,endgueltig,
+DRV Förderung Selbstständigkeit,2025,264,Leistungen,DRV,endgueltig,
+Hinzuverdienstgrenze volle Erwerbsminderung,2027,21682.5,€,DRV rvRecht,endgueltig,
+Mindesthinzuverdienstgrenze teilweise Erwerbsminderung,2027,43365.0,€,DRV rvRecht,endgueltig,individuell höher möglich
+Rechenszenario Differenz,Differenz verringert sich um ein Zehntel,6700.0,Personen,eigene Rechnung,szenario,ohne Zeithorizont
+Rechenszenario Differenz,Differenz verringert sich um ein Viertel,16700.0,Personen,eigene Rechnung,szenario,ohne Zeithorizont
+Rechenszenario Differenz,Differenz verringert sich um die Hälfte,33300.0,Personen,eigene Rechnung,szenario,ohne Zeithorizont
