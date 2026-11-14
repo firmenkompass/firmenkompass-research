@@ -6,7 +6,7 @@ title: "Nachfolge im Handwerk 2027: Betriebsübernahmen, Schließungsabsichten, 
 
 [CSV herunterladen](nachfolge-handwerk-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/nachfolge-handwerk-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215485)](https://doi.org/10.5281/zenodo.24215485) · [OSF](https://osf.io/7ry2t/)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215485)](https://doi.org/10.5281/zenodo.24215485) · [OSF](https://osf.io/7ry2t/) · [Kaggle](https://www.kaggle.com/datasets/firmenkompass/nachfolge-handwerk-2027)
 
 ## Fragestellung
 Wie viele Handwerksbetriebe stehen zur Übergabe oder Schließung an, wie haben sich Betriebsübernahmen, Altersstruktur der Inhaber und Meisterprüfungen entwickelt, und wie verhalten sich Angebot und Nachfrage auf der Nachfolgebörse nexxt-change?

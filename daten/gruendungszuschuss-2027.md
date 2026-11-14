@@ -6,7 +6,7 @@ title: "Gründungszuschuss 2027: Förderzugänge 2006–2026, Tragfähigkeitspr�
 
 [CSV herunterladen](gruendungszuschuss-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruendungszuschuss-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215479)](https://doi.org/10.5281/zenodo.24215479) · [OSF](https://osf.io/tjfcu/)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215479)](https://doi.org/10.5281/zenodo.24215479) · [OSF](https://osf.io/tjfcu/) · [Kaggle](https://www.kaggle.com/datasets/firmenkompass/gruendungszuschuss-2027)
 
 ## Fragestellung
 Wie haben sich die Förderzugänge in den Gründungszuschuss nach §§ 93, 94 SGB III von 2006 bis 2026 entwickelt, wie läuft die Tragfähigkeitsprüfung durch fachkundige Stellen, was kostet sie regional, und welche Zugänge sind 2027 zu erwarten?

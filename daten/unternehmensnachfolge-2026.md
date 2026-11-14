@@ -6,7 +6,7 @@ title: "Unternehmensnachfolge in Deutschland 2026: Verkaufsangebote und Kaufgesu
 
 [CSV herunterladen](unternehmensnachfolge-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/unternehmensnachfolge-2026/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214439)](https://doi.org/10.5281/zenodo.24214439) · [OSF](https://osf.io/fq6wz/)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214439)](https://doi.org/10.5281/zenodo.24214439) · [OSF](https://osf.io/fq6wz/) · [Kaggle](https://www.kaggle.com/datasets/firmenkompass/unternehmensnachfolge-2026)
 
 ## Fragestellung
 Wie verhalten sich Angebot und Nachfrage in der Unternehmensnachfolge 2026, nach Branche und Bundesland, und wie viele Unternehmensübergaben stehen in Deutschland von 2026 bis 2030 an?

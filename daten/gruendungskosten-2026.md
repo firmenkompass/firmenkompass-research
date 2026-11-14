@@ -6,7 +6,7 @@ title: "Gründungskosten in Deutschland 2026: Gewerbesteuer-Hebesätze und Gewer
 
 [CSV herunterladen](gruendungskosten-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruendungskosten-2026/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214367)](https://doi.org/10.5281/zenodo.24214367) · [Figshare (DOI 10.6084/m9.figshare.35009515)](https://doi.org/10.6084/m9.figshare.35009515) · [OSF](https://osf.io/6da3p/)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214367)](https://doi.org/10.5281/zenodo.24214367) · [Figshare (DOI 10.6084/m9.figshare.35009515)](https://doi.org/10.6084/m9.figshare.35009515) · [OSF](https://osf.io/6da3p/) · [Kaggle](https://www.kaggle.com/datasets/firmenkompass/gruendungskosten-2026)
 
 ## Fragestellung
 Wie stark unterscheiden sich die Gewerbesteuer-Hebesätze 2026 zwischen 99 deutschen Städten, wie hoch ist die Gewerbesteuer für ein Einzelunternehmen mit 50.000 Euro Gewinn je Stadt, und welche weiteren Pflichtkosten (Kammerbeitrag, Gewerbeanmeldung) fallen bei der Gründung an?
