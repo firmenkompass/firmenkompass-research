@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Bitte so zitieren."
+title: "Firmenkompass Research – offene Daten zur Existenzgründung in Deutschland"
+type: dataset
+authors:
+  - name: "Firmenkompass Research"
+  - family-names: "Ossot"
+    given-names: "Maximilian"
+    affiliation: "Firmenkompass GmbH"
+license: CC-BY-4.0
+url: "https://firmenkompass.github.io/firmenkompass-research/"
+repository-code: "https://github.com/firmenkompass/firmenkompass-research"
+date-released: 2026-11-14
+keywords: [Existenzgründung, Gründungsförderung, Gründungszuschuss, Gewerbesteuer, Unternehmensnachfolge, Deutschland]

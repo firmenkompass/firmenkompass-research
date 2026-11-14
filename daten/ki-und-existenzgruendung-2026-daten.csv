@@ -1,0 +1,17 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Unternehmen mit KI-Nutzung (ab 10 Beschäftigte),2021,11,%,Destatis,endgueltig,
+Unternehmen mit KI-Nutzung (ab 10 Beschäftigte),2023,12,%,Destatis,endgueltig,
+Unternehmen mit KI-Nutzung (ab 10 Beschäftigte),2024,20,%,Destatis,endgueltig,
+Unternehmen mit KI-Nutzung (ab 10 Beschäftigte),2025,26,%,Destatis,endgueltig,
+KI-Nutzung 2024,Großunternehmen,48,%,Destatis,endgueltig,
+KI-Nutzung 2024,mittlere Unternehmen,28,%,Destatis,endgueltig,
+KI-Nutzung 2024,kleine Unternehmen,17,%,Destatis,endgueltig,
+KI-Nutzung Mittelstand 2022–2024,gesamt,20,%,KfW Research,befragung,
+KI-Nutzung Mittelstand 2022–2024,unter 5 Beschäftigte,19,%,KfW Research,befragung,
+KI-Nutzung Mittelstand 2022–2024,50 und mehr Beschäftigte,36,%,KfW Research,befragung,
+KI-Nutzung Mittelstand 2022–2024,Baugewerbe,8,%,KfW Research,befragung,
+KI-Nutzung Mittelstand 2022–2024,mit Digitalisierungsstrategie,35,%,KfW Research,befragung,
+Existenzgründungen mit digitalem Angebot,2025,44,%,KfW-Gründungsmonitor 2026,befragung,
+Startups mit KI im Zentrum des Produkts,2025,45,%,Deutscher Startup Monitor 2025,befragung,Zusammenfassung
+Geschäftskonzepte mit Defiziten kaufmännisches Handwerkszeug,2025,49,%,DIHK 2026,befragung,
+Geschäftskonzepte mit Defiziten Finanzierung,2025,44,%,DIHK 2026,befragung,

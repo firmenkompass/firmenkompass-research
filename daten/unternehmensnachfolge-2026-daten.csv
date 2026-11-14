@@ -1,0 +1,70 @@
+kennzahl,gruppe,wert,einheit,quelle,status,hinweis
+Verkaufsangebote nexxt-change,Handwerk,2251,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Handel,1452,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Dienstleistung,1221,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Verarbeitendes Gewerbe,632,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Gastgewerbe,527,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Baugewerbe,523,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Gesundheits- und Sozialwesen,216,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Information und Kommunikation,213,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Infrastruktur,93,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,"Kunst, Unterhaltung und Erholung",87,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Grundstücks- und Wohnungswesen,79,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Land- und Forstwirtschaft,26,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change,Bergbau,3,Inserate,nexxt-change 23.10.2026,erhebung,
+Kaufgesuche nexxt-change,Handwerk,912,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Dienstleistung,655,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Verarbeitendes Gewerbe,565,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Baugewerbe,367,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Handel,331,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Information und Kommunikation,235,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Grundstücks- und Wohnungswesen,204,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Infrastruktur,146,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Gesundheits- und Sozialwesen,128,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Gastgewerbe,97,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Land- und Forstwirtschaft,43,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,"Kunst, Unterhaltung und Erholung",42,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Kaufgesuche nexxt-change,Bergbau,20,Inserate,nexxt-change 23.10.2026,erhebung,Mehrfachzuordnung
+Verkaufsangebote nexxt-change nach Land,Nordrhein-Westfalen,1486,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Baden-Württemberg,1077,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Bayern,832,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Niedersachsen,563,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Hessen,420,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Sachsen,344,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Rheinland-Pfalz,304,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Schleswig-Holstein,287,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Berlin,259,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Thüringen,182,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Brandenburg,177,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Hamburg,146,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Sachsen-Anhalt,136,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Mecklenburg-Vorpommern,88,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Saarland,88,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Bremen,46,Inserate,nexxt-change 23.10.2026,erhebung,
+Verkaufsangebote nexxt-change nach Land,Ausland,16,Inserate,nexxt-change 23.10.2026,erhebung,
+Übergaben 2026–2030 (IfM),Baden-Württemberg,26200,Unternehmen,IfM Bonn,schaetzung,54 je 1.000
+Übergaben 2026–2030 (IfM),Bayern,34500,Unternehmen,IfM Bonn,schaetzung,51 je 1.000
+Übergaben 2026–2030 (IfM),Berlin,7700,Unternehmen,IfM Bonn,schaetzung,40 je 1.000
+Übergaben 2026–2030 (IfM),Brandenburg,4800,Unternehmen,IfM Bonn,schaetzung,48 je 1.000
+Übergaben 2026–2030 (IfM),Bremen,1400,Unternehmen,IfM Bonn,schaetzung,55 je 1.000
+Übergaben 2026–2030 (IfM),Hamburg,5100,Unternehmen,IfM Bonn,schaetzung,49 je 1.000
+Übergaben 2026–2030 (IfM),Hessen,13600,Unternehmen,IfM Bonn,schaetzung,51 je 1.000
+Übergaben 2026–2030 (IfM),Mecklenburg-Vorpommern,3200,Unternehmen,IfM Bonn,schaetzung,54 je 1.000
+Übergaben 2026–2030 (IfM),Niedersachsen,19000,Unternehmen,IfM Bonn,schaetzung,61 je 1.000
+Übergaben 2026–2030 (IfM),Nordrhein-Westfalen,38300,Unternehmen,IfM Bonn,schaetzung,53 je 1.000
+Übergaben 2026–2030 (IfM),Rheinland-Pfalz,8800,Unternehmen,IfM Bonn,schaetzung,52 je 1.000
+Übergaben 2026–2030 (IfM),Saarland,2000,Unternehmen,IfM Bonn,schaetzung,53 je 1.000
+Übergaben 2026–2030 (IfM),Sachsen,7400,Unternehmen,IfM Bonn,schaetzung,47 je 1.000
+Übergaben 2026–2030 (IfM),Sachsen-Anhalt,3600,Unternehmen,IfM Bonn,schaetzung,53 je 1.000
+Übergaben 2026–2030 (IfM),Schleswig-Holstein,7200,Unternehmen,IfM Bonn,schaetzung,55 je 1.000
+Übergaben 2026–2030 (IfM),Thüringen,3700,Unternehmen,IfM Bonn,schaetzung,48 je 1.000
+Unternehmensübergaben (Schätzzeitraum),2010–2014,110000,Unternehmen,IfM Bonn,schaetzung,
+Unternehmensübergaben (Schätzzeitraum),2022–2026,190000,Unternehmen,IfM Bonn,schaetzung,
+Unternehmensübergaben (Schätzzeitraum),2026–2030,186000,Unternehmen,IfM Bonn,schaetzung,
+IHK-Beratungen,Abgabewillige 2024,9636,Anzahl,DIHK,befragung,
+IHK-Beratungen,Interessenten 2024,4016,Anzahl,DIHK,befragung,
+IHK-Beratungen,Interessenten 2023,2760,Anzahl,DIHK,befragung,
+IHK-Beratungen,ohne Kandidat 2024,5620,Anzahl,DIHK,befragung,
+Rechenszenario 2027 Abgabewillige je Interessent,a,3.75,Verhältnis,eigene Rechnung,szenario,
+Rechenszenario 2027 Abgabewillige je Interessent,b,2.4,Verhältnis,eigene Rechnung,szenario,
+Rechenszenario 2027 Abgabewillige je Interessent,c,1.22,Verhältnis,eigene Rechnung,szenario,
