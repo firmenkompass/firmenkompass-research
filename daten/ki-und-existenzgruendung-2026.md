@@ -24,7 +24,7 @@ Sekundärauswertung von Destatis (IKT-Erhebung in Unternehmen), KfW Research (Fo
 Die Erhebungen grenzen KI-Nutzung und Unternehmensgrößen unterschiedlich ab; Destatis erfasst Unternehmen ab zehn Beschäftigten. Befragungswerte (DSM, DIHK) sind keine Zufallsstichproben. Der Report enthält zusätzlich einen gekennzeichneten Abschnitt mit nicht repräsentativen Praxisdaten des Herausgebers; diese sind nicht Teil des Datensatzes.
 
 ## Daten
-ki-und-existenzgruendung-2026-daten.csv: 16 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2025 (Vergleich 2021–2024), Datenstand 2026-10-24.
+ki-und-existenzgruendung-2026-daten.csv: 16 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2025 (Vergleich 2021–2024), Datenstand 2026-10-24.
 
 ## Quellen
 

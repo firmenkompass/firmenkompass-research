@@ -24,7 +24,7 @@ Stichtagsauszählung der Unternehmensbörse nexxt-change am 23.10.2026 (Verkaufs
 nexxt-change bildet nur einen Teil des Nachfolgemarkts ab (viele Übergaben laufen ohne Börse); Inserate können doppelt oder veraltet sein. IfM-Werte sind Schätzungen übernahmewürdiger Familienunternehmen, keine Zählung abgeschlossener Verkäufe. Das Szenario 2027 ist eine Rechnung, keine Prognose.
 
 ## Daten
-unternehmensnachfolge-2026-daten.csv: 69 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2026 (Stichtag nexxt-change 23.10.2026), Datenstand 2026-10-23.
+unternehmensnachfolge-2026-daten.csv: 69 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2026 (Stichtag nexxt-change 23.10.2026), Datenstand 2026-10-23.
 
 ## Quellen
 

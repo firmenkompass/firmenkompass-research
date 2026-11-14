@@ -23,7 +23,7 @@ Auswertung der Monatsberichte der Bundesagentur für Arbeit (Dezember und Jahr 2
 BA-Werte zu Eintritten sind vorläufig, hochgerechnet und gerundet. Die Verhältniszahl je 1.000 Arbeitslose ist eine Näherung (Jahresdurchschnitt Arbeitslose zu Jahreszugängen). Der Report enthält zusätzlich einen gekennzeichneten Abschnitt mit nicht repräsentativen Praxisdaten des Herausgebers; diese sind nicht Teil des Datensatzes. Keine Rechtsberatung.
 
 ## Daten
-gruenden-aus-der-arbeitslosigkeit-2026-daten.csv: 24 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2022–2025, Datenstand 2026-10-23.
+gruenden-aus-der-arbeitslosigkeit-2026-daten.csv: 24 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2022–2025, Datenstand 2026-10-23.
 
 ## Quellen
 

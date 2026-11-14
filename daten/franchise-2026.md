@@ -24,7 +24,7 @@ Auswertung der Statistik und Jahresberichte des Deutschen Franchiseverbands (Zah
 Die Branchenzahlen beruhen auf einer Verbandsstudie und sind keine amtliche Vollerhebung. Keine Rechtsberatung; vor Unterschrift eines Franchisevertrags anwaltlich prüfen lassen.
 
 ## Daten
-franchise-2026-daten.csv: 6 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2024 (Vergleich 2022–2023), Datenstand 2026-10-23.
+franchise-2026-daten.csv: 6 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2024 (Vergleich 2022–2023), Datenstand 2026-10-23.
 
 ## Quellen
 

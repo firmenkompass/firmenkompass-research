@@ -24,7 +24,7 @@ Sekundärauswertung und Zusammenführung amtlicher und veröffentlichter Statist
 Die Quellen zählen Gründungen unterschiedlich (Personen, Gewerbeanzeigen, Betriebsgründungen) und sind nicht direkt vergleichbar. KfW-Werte sind Hochrechnungen und werden rückwirkend angepasst; Gewerbeanzeigen enthalten keine freien Berufe und seit Ende 2022 Erfassungsprobleme. Der Report enthält zusätzlich einen gekennzeichneten Abschnitt mit nicht repräsentativen Praxisdaten des Herausgebers; diese sind nicht Teil des Datensatzes.
 
 ## Daten
-gruendungsreport-2025-daten.csv: 103 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2025 (Vergleich 2022–2024), Datenstand 2026-10-23.
+gruendungsreport-2025-daten.csv: 103 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2025 (Vergleich 2022–2024), Datenstand 2026-10-23.
 
 ## Quellen
 

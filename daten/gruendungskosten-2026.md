@@ -24,7 +24,7 @@ Eigene Erhebung der Hebesätze 2026 aus Hebesatzsatzungen und Angaben der Städt
 Beispielrechnung ohne Hinzurechnungen und Kürzungen; Kapitalgesellschaften und Personengesellschaften rechnen anders. Hebesätze können sich unterjährig durch Satzungsänderung ändern. Keine Steuerberatung.
 
 ## Daten
-gruendungskosten-2026-daten.csv: 215 Werte, jeder mit Quelle und Status (Spalten siehe README). Berichtszeitraum 2026 (Hebesätze 2026, Vergleich Destatis 2025), Datenstand 2026-10-23.
+gruendungskosten-2026-daten.csv: 215 Werte, jeder mit Quelle und Status (Spalten siehe unten). Berichtszeitraum 2026 (Hebesätze 2026, Vergleich Destatis 2025), Datenstand 2026-10-23.
 
 ## Quellen
 
