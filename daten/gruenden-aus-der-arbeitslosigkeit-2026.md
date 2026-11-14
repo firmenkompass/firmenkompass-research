@@ -6,6 +6,8 @@ title: "Gründen aus der Arbeitslosigkeit 2026: Gründungszuschuss, Einstiegsgel
 
 [CSV herunterladen](gruenden-aus-der-arbeitslosigkeit-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruenden-aus-der-arbeitslosigkeit-2026/)
 
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214434)](https://doi.org/10.5281/zenodo.24214434) · [Figshare (DOI 10.6084/m9.figshare.35009533)](https://doi.org/10.6084/m9.figshare.35009533)
+
 ## Fragestellung
 Wie haben sich die Förderinstrumente für Gründungen aus der Arbeitslosigkeit (Gründungszuschuss nach §§ 93, 94 SGB III, Einstiegsgeld nach § 16b SGB II, Leistungen zur Eingliederung von Selbständigen nach § 16c SGB II) von 2022 bis 2025 entwickelt, absolut und im Verhältnis zur Zahl der Arbeitslosen?
 

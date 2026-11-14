@@ -6,6 +6,8 @@ title: "KI und Existenzgründung 2026: Nutzung künstlicher Intelligenz in Unter
 
 [CSV herunterladen](ki-und-existenzgruendung-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/ki-und-existenzgruendung-2026/)
 
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214443)](https://doi.org/10.5281/zenodo.24214443)
+
 ## Fragestellung
 Wie verbreitet ist künstliche Intelligenz 2025 in deutschen Unternehmen, im Mittelstand, bei Startups und bei Existenzgründungen, und welche Defizite zeigen Geschäftskonzepte in der Gründungsberatung?
 
