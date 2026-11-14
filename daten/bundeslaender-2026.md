@@ -6,7 +6,7 @@ title: "Gründen nach Bundesländern 2026: Gründungsintensität, Gründungssald
 
 [CSV herunterladen](bundeslaender-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/bundeslaender-2026/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215481)](https://doi.org/10.5281/zenodo.24215481) · [OSF](https://osf.io/s2z3f/)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215481)](https://doi.org/10.5281/zenodo.24215481)
 
 ## Fragestellung
 Wie unterscheiden sich die 16 Bundesländer 2025 und im ersten Halbjahr 2026 bei Gründungsintensität, Gründungssaldo, Insolvenzen, Wirtschaftsdaten, Gewerbesteuer-Hebesätzen der Landeshauptstädte und Landesförderprogrammen für Gründende?
