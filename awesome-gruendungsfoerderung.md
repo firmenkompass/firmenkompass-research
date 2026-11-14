@@ -43,8 +43,8 @@ Grundsicherungsgeld hieß bis Juni 2026 Bürgergeld.
 ## Kredite und Bürgschaften
 
 - [KfW – Gründen und Nachfolgen](https://www.kfw.de/inlandsfoerderung/Unternehmen/Gr%C3%BCnden-Nachfolgen/) – Übersicht der Förderkredite.
-- [Merkblatt ERP-Gründerkredit StartGeld (067)](https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-(Inlandsf%C3%B6rderung)/PDF-Dokumente/6000002258_M_067_StartGeld.pdf) – Kredit für kleine Gründungen.
-- [Merkblatt ERP-Förderkredit Gründung und Nachfolge (077)](https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-(Inlandsf%C3%B6rderung)/PDF-Dokumente/6000000213_M_077.pdf) – Kredit für Gründung und Übernahme.
+- [Merkblatt ERP-Gründerkredit StartGeld (067)](https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000002258_M_067_StartGeld.pdf) – Kredit für kleine Gründungen.
+- [Merkblatt ERP-Förderkredit Gründung und Nachfolge (077)](https://www.kfw.de/PDF/Download-Center/F%C3%B6rderprogramme-%28Inlandsf%C3%B6rderung%29/PDF-Dokumente/6000000213_M_077.pdf) – Kredit für Gründung und Übernahme.
 - [Verband Deutscher Bürgschaftsbanken](https://vdb-info.de) – Bürgschaften, wenn Sicherheiten fehlen.
 
 ## Portale und Programme des Bundes
