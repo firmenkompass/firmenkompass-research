@@ -6,7 +6,7 @@ title: "Gründungsreport 2026: Existenzgründungen in Deutschland 2022–2026 mi
 
 [CSV herunterladen](gruendungsreport-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruendungsreport-2026/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215483)](https://doi.org/10.5281/zenodo.24215483)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215483)](https://doi.org/10.5281/zenodo.24215483) · [OSF](https://osf.io/gmz9x/)
 
 ## Fragestellung
 Wie hat sich das Gründungsgeschehen in Deutschland 2026 entwickelt (gewerbliche Gründungen, Existenzgründungen, Selbstständige, Insolvenzen, Finanzierung), wie ordnet es sich gegenüber 2022 bis 2025 ein, und welche Korridore ergeben sich rechnerisch für 2027?

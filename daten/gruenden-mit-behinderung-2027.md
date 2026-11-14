@@ -6,7 +6,7 @@ title: "Gründen mit Behinderung 2027: Selbstständigenquote, Arbeitslosigkeit s
 
 [CSV herunterladen](gruenden-mit-behinderung-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruenden-mit-behinderung-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215511)](https://doi.org/10.5281/zenodo.24215511)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215511)](https://doi.org/10.5281/zenodo.24215511) · [OSF](https://osf.io/su48p/)
 
 ## Fragestellung
 Wie häufig sind Menschen mit amtlich festgestellter Behinderung selbstständig im Vergleich zu Menschen ohne Behinderung, wie entwickelt sich die Arbeitslosigkeit schwerbehinderter Menschen, und welche Förderleistungen für eine Selbstständigkeit gibt es und wie oft werden sie genutzt?

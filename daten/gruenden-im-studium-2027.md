@@ -6,7 +6,7 @@ title: "Gründen im Studium 2027: Gründungen aus Hochschulen, Gründungsförder
 
 [CSV herunterladen](gruenden-im-studium-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruenden-im-studium-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215517)](https://doi.org/10.5281/zenodo.24215517)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215517)](https://doi.org/10.5281/zenodo.24215517) · [OSF](https://osf.io/v47fj/)
 
 ## Fragestellung
 Wie viele Menschen gründen aus dem Studium heraus, wie viele Gründungen melden die Hochschulen, wie sind Gründungsförderung und Personal an Hochschulen finanziert, und wie entwickeln sich Anträge und Bewilligungen beim EXIST-Gründungsstipendium?

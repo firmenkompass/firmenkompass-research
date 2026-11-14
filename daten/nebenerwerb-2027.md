@@ -6,7 +6,7 @@ title: "Nebenerwerbsgründung 2027: Gründen neben dem Hauptberuf – Zahlen 201
 
 [CSV herunterladen](nebenerwerb-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/nebenerwerb-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215509)](https://doi.org/10.5281/zenodo.24215509)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215509)](https://doi.org/10.5281/zenodo.24215509) · [OSF](https://osf.io/xv4kw/)
 
 ## Fragestellung
 Wie verbreitet sind Gründungen im Nebenerwerb, wer gründet neben dem Hauptberuf, mit welchem Kapital und welchen Hemmnissen, wie viele wechseln in den Vollerwerb, und welche steuerlichen und sozialversicherungsrechtlichen Regeln gelten 2026/2027?

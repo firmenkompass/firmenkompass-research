@@ -6,7 +6,7 @@ title: "Freiberufler und Kreative 2027: Selbstständige in Freien Berufen, Kultu
 
 [CSV herunterladen](freiberufler-kreative-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/freiberufler-kreative-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215513)](https://doi.org/10.5281/zenodo.24215513)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215513)](https://doi.org/10.5281/zenodo.24215513) · [OSF](https://osf.io/sazru/)
 
 ## Fragestellung
 Wie entwickeln sich Zahl und Gründungen der Selbstständigen in Freien Berufen und die Kultur- und Kreativwirtschaft, welche Einkommen melden KSK-Versicherte, und welche Regeln zu Künstlersozialversicherung, Statusfeststellung, Nutzungsrechten und Umsatzsteuer gelten 2027?

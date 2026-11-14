@@ -6,7 +6,7 @@ title: "Gewerbeanmeldung digital 2026/2027: Online-Gewerbeanmeldung, Gebühren u
 
 [CSV herunterladen](gewerbeanmeldung-digital-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gewerbeanmeldung-digital-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215519)](https://doi.org/10.5281/zenodo.24215519)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215519)](https://doi.org/10.5281/zenodo.24215519) · [OSF](https://osf.io/wqp56/)
 
 ## Fragestellung
 In welchen der 99 größten deutschen Städte lässt sich ein Gewerbe online an-, um- und abmelden, wie wird bezahlt und bescheinigt, welche Gebühren fallen an, und was ändert der gemeinsame digitale Antrag für Gewerbeanmeldung und steuerliche Erfassung 2026/2027?

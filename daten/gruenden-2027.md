@@ -6,7 +6,7 @@ title: "Gründen 2027: Was sich für Gründerinnen, Gründer und Selbstständige
 
 [CSV herunterladen](gruenden-2027-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruenden-2027/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215477)](https://doi.org/10.5281/zenodo.24215477)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24215477)](https://doi.org/10.5281/zenodo.24215477) · [OSF](https://osf.io/vsq78/)
 
 ## Fragestellung
 Welche bereits beschlossenen Rechtsänderungen und Rechengrößen gelten 2027 für Gründende und Selbstständige (Mindestlohn, Minijob-Grenze, Sozialversicherungsbeiträge, Umsatzsteuer-Voranmeldung, E-Rechnung, Abschreibung, KI-Verordnung), und welche Fristen sind zu beachten?
