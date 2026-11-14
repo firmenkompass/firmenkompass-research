@@ -6,7 +6,7 @@ title: "Existenzgründungen in Deutschland 2025: Gründungsreport mit Zahlen von
 
 [CSV herunterladen](gruendungsreport-2025-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/gruendungsreport-2025/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214412)](https://doi.org/10.5281/zenodo.24214412) · [Figshare (DOI 10.6084/m9.figshare.35009521)](https://doi.org/10.6084/m9.figshare.35009521)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214412)](https://doi.org/10.5281/zenodo.24214412) · [Figshare (DOI 10.6084/m9.figshare.35009521)](https://doi.org/10.6084/m9.figshare.35009521) · [OSF](https://osf.io/yzsf2/)
 
 ## Fragestellung
 Wie viele Existenzgründungen gab es 2025 in Deutschland, wie verteilen sie sich auf Voll- und Nebenerwerb, welche Hemmnisse nennen Gründende, und wie haben sich die geförderten Gründungen aus der Arbeitslosigkeit seit 2022 entwickelt?

@@ -6,7 +6,7 @@ title: "Franchise in Deutschland 2026: Kennzahlen der Franchisewirtschaft und re
 
 [CSV herunterladen](franchise-2026-daten.csv) · [Report auf firmenkompass.de](https://firmenkompass.de/studien-reports/franchise-2026/)
 
-Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214449)](https://doi.org/10.5281/zenodo.24214449)
+Zitierfähige Fassungen: [Zenodo (DOI 10.5281/zenodo.24214449)](https://doi.org/10.5281/zenodo.24214449) · [OSF](https://osf.io/xyfnq/)
 
 ## Fragestellung
 Wie groß ist die Franchisewirtschaft in Deutschland (Umsatz, Franchisenehmer, Beschäftigte), und welche rechtlichen Rahmenbedingungen (Verbraucherschutz nach § 513 BGB, Rentenversicherungspflicht nach § 2 SGB VI, Förderung) gelten für Gründende im Franchise?
